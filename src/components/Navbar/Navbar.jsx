@@ -7,7 +7,7 @@ export default function Navbar() {
   return (
     <div className="navbar">
       <a className="navbar-logo" href="#">
-        Logo
+        NAMANGANLIKLAR24
       </a>
       <ul className="navbar-menu">
         {navbarMenuData.map((item, index) => {
